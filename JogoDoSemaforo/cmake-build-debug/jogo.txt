@@ -1,0 +1,143 @@
+
+
+JOGADA:  1
+
+Jogada Realizada por adda
+Cor: v || Posicao: 1
+
+Numero de pedras adicionadas pelo jogador: 0
+Numero de linhas adicionadas pelo jogador: 0
+Numero de colunas adicionadas pelo jogador: 0
+ v |   |      ( 1 - 3) 
+------------
+   |   |      ( 4 - 6) 
+------------
+   |   |      ( 7 - 9) 
+
+
+
+
+
+
+JOGADA:  2
+
+Jogada Realizada por CPU
+Cor: v || Posicao: 8
+
+Numero de pedras adicionadas pelo jogador: 0
+Numero de linhas adicionadas pelo jogador: 0
+Numero de colunas adicionadas pelo jogador: 0
+ v |   |      ( 1 - 3) 
+------------
+   |   |      ( 4 - 6) 
+------------
+   | v |      ( 7 - 9) 
+
+
+
+
+
+
+JOGADA:  3
+
+Jogada Realizada por adda
+Cor: v || Posicao: 3
+
+Numero de pedras adicionadas pelo jogador: 0
+Numero de linhas adicionadas pelo jogador: 0
+Numero de colunas adicionadas pelo jogador: 0
+ v |   | v    ( 1 - 3) 
+------------
+   |   |      ( 4 - 6) 
+------------
+   | v |      ( 7 - 9) 
+
+
+
+
+
+
+JOGADA:  4
+
+Jogada Realizada por CPU
+Cor: n || Posicao: 9
+
+Numero de pedras adicionadas pelo jogador: 0
+Numero de linhas adicionadas pelo jogador: 1
+Numero de colunas adicionadas pelo jogador: 0
+ v |   | v    ( 1 - 3) 
+------------
+   |   |      ( 4 - 6) 
+------------
+   | v |      ( 7 - 9) 
+------------
+   |   |      ( 10 - 12) 
+
+
+
+
+
+
+JOGADA:  5
+
+Jogada Realizada por adda
+Cor: v || Posicao: 5
+
+Numero de pedras adicionadas pelo jogador: 0
+Numero de linhas adicionadas pelo jogador: 0
+Numero de colunas adicionadas pelo jogador: 0
+ v |   | v    ( 1 - 3) 
+------------
+   | v |      ( 4 - 6) 
+------------
+   | v |      ( 7 - 9) 
+------------
+   |   |      ( 10 - 12) 
+
+
+
+
+
+
+JOGADA:  6
+
+Jogada Realizada por CPU
+Cor: v || Posicao: 6
+
+Numero de pedras adicionadas pelo jogador: 0
+Numero de linhas adicionadas pelo jogador: 1
+Numero de colunas adicionadas pelo jogador: 0
+ v |   | v    ( 1 - 3) 
+------------
+   | v | v    ( 4 - 6) 
+------------
+   | v |      ( 7 - 9) 
+------------
+   |   |      ( 10 - 12) 
+
+
+
+
+
+
+JOGADA:  7
+
+Jogada Realizada por adda
+Cor: v || Posicao: 2
+
+Numero de pedras adicionadas pelo jogador: 0
+Numero de linhas adicionadas pelo jogador: 0
+Numero de colunas adicionadas pelo jogador: 0
+ v | v | v    ( 1 - 3) 
+------------
+   | v | v    ( 4 - 6) 
+------------
+   | v |      ( 7 - 9) 
+------------
+   |   |      ( 10 - 12) 
+
+
+
+
+
+Vencedor(a): adda

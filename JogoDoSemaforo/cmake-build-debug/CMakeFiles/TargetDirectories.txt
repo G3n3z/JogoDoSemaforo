@@ -1,0 +1,3 @@
+/Users/danielfernandes/Desktop/trabalhopratico/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/danielfernandes/Desktop/trabalhopratico/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danielfernandes/Desktop/trabalhopratico/cmake-build-debug/CMakeFiles/trabalhopratico.dir

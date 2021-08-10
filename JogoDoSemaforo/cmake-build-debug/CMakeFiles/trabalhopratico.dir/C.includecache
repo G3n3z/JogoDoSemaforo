@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/danielfernandes/Desktop/trabalhopratico/jogo.h
+
+/Users/danielfernandes/Desktop/trabalhopratico/utils.h
+
+/Users/danielfernandes/Desktop/trabalhopratico/verificaDados.c
+stdio.h
+-
+jogo.h
+/Users/danielfernandes/Desktop/trabalhopratico/jogo.h
+string.h
+-
+ctype.h
+-
+stdlib.h
+-
+utils.h
+/Users/danielfernandes/Desktop/trabalhopratico/utils.h
+
